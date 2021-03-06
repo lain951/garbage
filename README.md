@@ -1,2 +1,2 @@
 # garbage
-garbage that i make
+useless program
